@@ -672,25 +672,20 @@
 }
 
 .copyright-section p {
-
    font:16px,Roboto,sans-serif;
    padding:30px; 
    color:white;
 }
 
 .copyright-section a{
-
     text-decoration:none;
     color:#FDC632;
 }
 
-.subscribe-btn{
-    color:#002347;
-    background-color: #FDC632;
-    font:12px Rubik sans-serif;
-    padding:10px;
-    margin:0px 280px 0px 250px;
-    border:none;
+.footer-social-icons{
+ display:flex;
+justify-content:flex-end;
+align-items:center;
+gap:5px;
 }
-
 
